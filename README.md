@@ -16,6 +16,7 @@ This template provides a minimal setup for building a React application with Typ
 - [**Cloudflare Workers**](https://developers.cloudflare.com/workers/) - Edge computing platform for global deployment
 
 ### ✨ Key Features
+###
 
 - 🔥 Hot Module Replacement (HMR) for rapid development
 - 📦 TypeScript support out of the box
